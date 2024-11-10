@@ -20,6 +20,9 @@ finetune.py
 result_analysis.py
 
 ## Key File Descriptions
+
 loader.py --Preprocesses data
+
 structure_sim.py --Generates fingerprints for graphs
+
 hom_compute.py --Computes homophily ratio
